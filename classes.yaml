@@ -1,0 +1,40 @@
+- Blazer: 19
+  Blouse: 16
+  Body: 11
+  Dress: 10
+  Hat: 14
+  Hoodie: 17
+  Longsleeve: 12
+  Not sure: 0
+  Other: 7
+  Outwear: 9
+  Pants: 5
+  Polo: 15
+  Shirt: 4
+  Shoes: 2
+  Shorts: 3
+  Skip: 18
+  Skirt: 6
+  T-Shirt: 1
+  Top: 8
+  Undershirt: 13
+- ' polyester / cotton': 12
+  Canvas / rubber / plastics: 2
+  Cotton / Linen: 6
+  Denim: 3
+  "Georgette / Cr\xEApe": 16
+  Not sure: 0
+  Other: 7
+  'Polyester ': 9
+  Polyester / straw: 14
+  Poplin: 4
+  Skip: 18
+  UnKnown-Body: 11
+  UnKnown-Top: 8
+  Worsted Wool / Flannel / Fresco: 19
+  cotton / linen: 13
+  cotton / wool: 5
+  fabrics: 10
+  jeans / tartan: 17
+  polyester / rayon: 15
+  thread: 1
